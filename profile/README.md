@@ -1,12 +1,3 @@
-<!--
-  This is the GitHub ORG PROFILE README for the @utilytic organization.
-  To publish it:
-    1. On github.com/utilytic → New repository → name it exactly  .github  (public)
-    2. Add a file at path:  profile/README.md
-    3. Paste everything BELOW this comment block into it → commit.
-  It then renders on https://github.com/utilytic
--->
-
 <div align="center">
 
 [![Utilytic — free in-browser tools for audio, video, PDF & images](https://utilytic.com/og.png)](https://utilytic.com)
